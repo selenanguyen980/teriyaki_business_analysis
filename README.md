@@ -15,4 +15,5 @@ I examined item-level performance and hourly sales trends to identify the most a
 
 ### Tools & Skills
 Tools: SQL (MySQL), Excel (PivotTables & Charts)
+
 Skills: Data aggregation, window functions, revenue analysis, business analysis, data visualization
